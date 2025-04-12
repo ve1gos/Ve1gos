@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ve1gos - Java & Python Developer
 
-<!--
-**ve1gos/Ve1gos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Ve1gos**, a developer who loves creating plugins for Minecraft and writing scripts in **Python**. In this repository, you will find my Java-based Minecraft plugins as well as various Python scripts. Feel free to explore, use, and contribute!
 
-Here are some ideas to get you started:
+## 💻 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java**: Minecraft plugin development with Spigot API and others
+- **Python**: General-purpose programming, automation, and scripting
+- **Minecraft Plugins**: Custom plugins for improving your Minecraft server
+
+## 🌟 What I Do
+
+I specialize in creating Minecraft plugins that enhance gameplay, improve server performance, and provide new exciting features. Additionally, I also enjoy working with Python for automation, data analysis, and backend development.
+
+## 📦 Repositories
+
+Here, you'll find a collection of my projects and plugins:
+
+- **VSayPlugin**: A simple Spigot plugin that broadcasts messages with author name and sound.
+- **Custom Scripts**: Useful Python scripts for various tasks and automation.
+- **And more**
+
+Feel free to explore each repository for more details on the plugins and scripts.
+
+██╗░░░██╗███████╗░░███╗░░░██████╗░░█████╗░░██████╗
+██║░░░██║██╔════╝░████║░░██╔════╝░██╔══██╗██╔════╝
+╚██╗░██╔╝█████╗░░██╔██║░░██║░░██╗░██║░░██║╚█████╗░
+░╚████╔╝░██╔══╝░░╚═╝██║░░██║░░╚██╗██║░░██║░╚═══██╗
+░░╚██╔╝░░███████╗███████╗╚██████╔╝╚█████╔╝██████╔╝
+░░░╚═╝░░░╚══════╝╚══════╝░╚═════╝░░╚════╝░╚═════╝░
+
