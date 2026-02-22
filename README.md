@@ -40,3 +40,5 @@ I also use Python to automate routine workflows, process data, and build small b
 ---
 
 ⭐ Always open to learning and new challenges.
+
+![demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNxZTl4aGV4bHo3Y2RkdXRuY253N3c2MWNzZzQ5YnhxNmd4cWlzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
