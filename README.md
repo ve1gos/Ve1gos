@@ -7,7 +7,7 @@ I build performance-oriented server solutions, custom gameplay mechanics, and au
 
 ## 🚀 Achievements
 
-- 🖥️ Deployed and configured **5+ Minecraft servers**
+- 🖥️ Create and configured **5+ Minecraft servers**
 - 🔧 Developed **15+ custom Minecraft plugins**
 - 🐞 Fixed **500+ bugs** across various projects
 - ⚙️ Automated routine tasks using **Python scripts**
