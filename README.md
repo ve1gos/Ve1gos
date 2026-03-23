@@ -21,10 +21,10 @@ Currently building my foundation and exploring what's possible with Python.
 
 ---
 
-[![GitHub followers](https://img.shields.io)](https://github.com)
-![Python](https://img.shields.io)
+
+![demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNxZTl4aGV4bHo3Y2RkdXRuY253N3c2MWNzZzQ5YnhxNmd4cWlzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 </div>
 
 
-![demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNxZTl4aGV4bHo3Y2RkdXRuY253N3c2MWNzZzQ5YnhxNmd4cWlzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
